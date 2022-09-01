@@ -1,0 +1,3 @@
+#!/bin/bash
+cp [[:in/bash
+chmod u=rwx,g=rx,o=r hello
